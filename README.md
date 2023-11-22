@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
-<h3 align="center">Software Engineer | Flutter Developer Specialist</h3>
+<h3 align="center">Software Engineer | Mobile Application Developer Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoodmakhloof&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoodmakhloof" /> </p>
 
-- 🌱 I’m currently learning **flutter, node.js**
+- 🌱 I’m currently working with **flutter, node.js**
 
-- 💬 Ask me about **dart, flutter**
+- 💬 Ask me about **dart, flutter, node.js**
 
 - 📫 How to reach me **mahmoodmakhloof1998@gmail.com**
 
