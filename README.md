@@ -1,23 +1,72 @@
-<h1 align="center">Hi 👋, I'm Mahmoud</h1>
-<h3 align="center">Software Engineer | Mobile Application (Flutter) And Web (Node.js) Developer Specialist</h3>
+<h1 align="center">Hi 👋, I'm Mahmoud Makhloof</h1>
+<h3 align="center">Software Engineer | Flutter & Node.js Developer | Smart Systems Builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoodmakhloof&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoodmakhloof" /> </p>
-
-- 🌱 I’m currently working with **flutter, node.js**
-
-- 💬 Ask me about **dart, flutter, node.js**
-
-- 📫 How to reach me **mahmoodmakhloof1998@gmail.com**
-
-- 📱 You can message me whatsapp **+201016180477**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahmoodmakhloof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoodmakhloof" height="30" width="40" /></a>
-<a href="https://fb.com/mahmoodmakhloof1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoodmakhloof1998" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmoodmakhloof&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoodmakhloof" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+🔧 **About Me**
 
+I'm Mahmoud Makhloof, a passionate Software Engineer with 3+ years of experience building innovative mobile apps, backend systems, and smart IoT solutions.  
+I specialize in **Flutter**, **Node.js**, and **MongoDB**, and have delivered full-stack projects across e-commerce, fintech, smart homes, and more.
+
+---
+
+🧠 **Key Skills**
+
+- **Languages & Frameworks:** Dart, Flutter, Node.js, JavaScript, Python  
+- **Backend & DB:** Express.js, MongoDB, PostgreSQL, Firebase, MQTT  
+- **Mobile & Web:** Cross-platform Flutter apps, RESTful APIs, Clean Architecture (MVVM, BLoC)  
+- **IoT & Smart Systems:** Real-time communication using MQTT & Socket.IO  
+- **Tools & Deployment:** PM2, Nginx, VPS, Git, Postman, GitHub, Firebase, CI/CD  
+
+---
+
+💼 **Highlighted Projects**
+
+- **🛒 Elbagshi Jewelry App**  
+  E-commerce platform for gold and jewelry with PayTabs, Tabby & Apple Pay.
+
+- **🧾 Hunt Price App**  
+  AI-powered app that extracts searchable products from PDF flyers using YOLO and smart categorization.
+
+- **💳 Cashske**  
+  A mobile-based cash payment gateway using SMS detection, Flutter, and Node.js.
+
+- **🏠 Micasa Smart Home**  
+  IoT system with real-time control via MQTT, user management, scheduling, and voice commands.
+
+- **🚗 Smart Car App** *(In collaboration with Valeo)*  
+  Remote car control, GPS tracking, speed limit, and FOTA update system.
+
+- **🏥 Takaful Golden**  
+  Healthcare deals app with smart filters, QR-based digital cards, subscriptions, and referrals.
+
+---
+
+📫 **How to Reach Me**
+
+- 📧 Email: [mahmoodmakhloof1998@gmail.com](mailto:mahmoodmakhloof1998@gmail.com)  
+- 📱 WhatsApp: [+201016180477](https://wa.me/201016180477)  
+- 💼 LinkedIn: [mahmoodmakhloof](https://www.linkedin.com/in/mahmoodmakhloof)  
+- 💻 GitHub: [MahmoodMakhloof](https://github.com/MahmoodMakhloof)
+
+---
+
+🛠️ **Languages and Tools**
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
