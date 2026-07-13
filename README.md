@@ -82,16 +82,3 @@ I am technology-agnostic but specialize in the **TypeScript** and **Flutter** ec
   Shopping offers platform (KSA). Built 5 apps with AI flyer ingestion (**Gemini + OpenAI**) and deep SEO infrastructure.
 
 *For detailed case studies, please visit my **[Portfolio](https://makhloof.studio)***.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahmoodMakhloof&show_icons=true&theme=radical&hide_border=true" alt="Mahmoud's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoodMakhloof&theme=radical&hide_border=true" alt="Mahmoud's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MahmoodMakhloof&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
