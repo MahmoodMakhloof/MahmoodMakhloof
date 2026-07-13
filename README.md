@@ -1,5 +1,20 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Makhloof</h1>
-<h3 align="center">Software Engineer | Flutter & Node.js Developer | Smart Systems Builder</h3>
+<h1 align="center">Hi 👋, I'm Mahmoud Makhlouf (Makhloof Studio)</h1>
+<h3 align="center">Senior Full-Stack & ERP Developer | Software Engineer</h3>
+
+<p align="center">
+  <a href="https://makhloof.studio">
+    <img src="https://img.shields.io/badge/Portfolio-makhloof.studio-0e75b6?style=for-the-badge&logo=Web" alt="Portfolio" />
+  </a>
+  <a href="mailto:mahmoodmakhloof1998@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/201016180477">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahmoodmakhloof">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahmoodmakhloof&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoodmakhloof" />
@@ -7,67 +22,76 @@
 
 ---
 
-🔧 **About Me**
+## 🔧 About Me
 
-I'm Mahmoud Makhloof, a passionate Software Engineer with 3+ years of experience building innovative mobile apps, backend systems, and smart IoT solutions.  
-I specialize in **Flutter**, **Node.js**, and **MongoDB**, and have delivered full-stack projects across e-commerce, fintech, smart homes, and more.
+I am a Senior Software Engineer specializing in **full-stack web and cross-platform mobile development**. I lead **[Makhloof Studio](https://makhloof.studio)**, a boutique software studio delivering end-to-end, production-grade platforms. My focus is on building scalable multi-sided marketplaces, multi-tenant SaaS, real-time ledgers, and comprehensive ERP systems. 
 
----
-
-🧠 **Key Skills**
-
-- **Languages & Frameworks:** Dart, Flutter, Node.js, JavaScript, Python  
-- **Backend & DB:** Express.js, MongoDB, PostgreSQL, Firebase, MQTT  
-- **Mobile & Web:** Cross-platform Flutter apps, RESTful APIs, Clean Architecture (MVVM, BLoC)  
-- **IoT & Smart Systems:** Real-time communication using MQTT & Socket.IO  
-- **Tools & Deployment:** PM2, Nginx, VPS, Git, Postman, GitHub, Firebase, CI/CD  
+- 🌍 **Focus:** Bilingual platforms (Arabic RTL + English) by default.
+- ⚡ **Expertise:** Architecture, secure data isolation, real-time transactional systems, idempotent payments, and CI/CD DevOps.
+- 💬 **Reach out for:** Full platform builds, fixed-scope MVPs, premium landing pages, or backend engineering.
 
 ---
 
-💼 **Highlighted Projects**
+## 🧠 Core Stack & Technologies
 
-- **🛒 Elbagshi Jewelry App**  
-  E-commerce platform for gold and jewelry with PayTabs, Tabby & Apple Pay.
-
-- **🧾 Hunt Price App**  
-  AI-powered app that extracts searchable products from PDF flyers using YOLO and smart categorization.
-
-- **💳 Cashske**  
-  A mobile-based cash payment gateway using SMS detection, Flutter, and Node.js.
-
-- **🏠 Micasa Smart Home**  
-  IoT system with real-time control via MQTT, user management, scheduling, and voice commands.
-
-- **🚗 Smart Car App** *(In collaboration with Valeo)*  
-  Remote car control, GPS tracking, speed limit, and FOTA update system.
-
-- **🏥 Takaful Golden**  
-  Healthcare deals app with smart filters, QR-based digital cards, subscriptions, and referrals.
-
----
-
-📫 **How to Reach Me**
-
-- 🌍 Website: [Makhloof.online](https://makhloof.online)
-- 📧 Email: [mahmoodmakhloof1998@gmail.com](mailto:mahmoodmakhloof1998@gmail.com)  
-- 📱 WhatsApp: [+201016180477](https://wa.me/201016180477)  
-- 💼 LinkedIn: [mahmoodmakhloof](https://www.linkedin.com/in/mahmoodmakhloof)  
-- 💻 GitHub: [MahmoodMakhloof](https://github.com/MahmoodMakhloof)
-
----
-
-🛠️ **Languages and Tools**
+I am technology-agnostic but specialize in the **TypeScript** and **Flutter** ecosystems to deliver high-performance, maintainable products.
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="typescript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="javascript"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="dart"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/>
+  
+  <!-- Frontend & Mobile -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="nextjs"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="react"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="flutter"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="tailwind"/>
+
+  <!-- Backend & DB -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="nodejs"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="nestjs"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="postgres"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="mongodb"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="supabase"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="prisma"/>
+
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="docker"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="nginx"/>
+</p>
+
+---
+
+## 💼 Selected Work & Platforms
+
+- **[Ajza](https://makhloof.studio)** 🚗
+  Multi-platform automotive parts marketplace (KSA). Architected with **NestJS**, **Next.js**, and **Flutter** spanning 5 distinct user roles and real-time repair tracking.
+  
+- **[Montra Lifts](https://makhloof.studio)** 🏗️
+  B2B elevator spare-parts marketplace (Egypt). Built on **NestJS, Prisma, and MySQL**. Features RFQ project workflows, tamper-proof financial ledgers, and secure payment integration.
+
+- **[Mudarris](https://makhloof.studio)** 📚
+  Offline-first multi-tenant tutoring SaaS (MENA). Developed a **Flutter** app and **Next.js** dashboards powered by **Supabase**, including a digital exam engine.
+
+- **[Stravo](https://makhloof.studio)** 🍔
+  Restaurant ordering & delivery platform. Dual-build architecture with a loyalty ledger and delivery-zone geofencing (**React + Supabase**).
+
+- **[Qooty](https://makhloof.studio)** 🛍️
+  Shopping offers platform (KSA). Built 5 apps with AI flyer ingestion (**Gemini + OpenAI**) and deep SEO infrastructure.
+
+*For detailed case studies, please visit my **[Portfolio](https://makhloof.studio)***.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoodMakhloof&show_icons=true&theme=radical&hide_border=true" alt="Mahmoud's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoodMakhloof&theme=radical&hide_border=true" alt="Mahmoud's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoodMakhloof&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
