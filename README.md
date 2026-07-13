@@ -8,7 +8,7 @@
   <a href="mailto:mahmoodmakhloof1998@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://wa.me/201016180477">
+  <a href="https://wa.me/201155081748">
     <img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.linkedin.com/in/mahmoodmakhloof">
